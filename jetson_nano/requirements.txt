@@ -16,7 +16,7 @@ blinker==1.4
 bluedot==1.3.2
 bluetool==0.2.3
 Brlapi==0.6.6
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
@@ -60,7 +60,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.14.1
 Jetson.GPIO==1.0.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 json5==0.8.5
 jsonschema==3.0.2
 jupyter==1.0.0
@@ -112,7 +112,7 @@ parso==0.5.1
 pbr==5.4.2
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==9.3.0
 pluggy==0.12.0
 portpicker==1.3.1
 prettytable==0.7.2
