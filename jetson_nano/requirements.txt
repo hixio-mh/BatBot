@@ -97,8 +97,12 @@ nbconvert==5.6.0
 nbdime==1.1.1
 nbformat==4.4.0
 nodejs==0.1.1
+ dependabot/pip/jetson_nano/numpy-1.22.0
+notebook==6.0.0
+numpy==1.22.0
 notebook==6.4.12
 numpy==1.17.0
+ master
 oauth==1.0.1
 oauthlib==2.0.6
 olefile==0.45.1
