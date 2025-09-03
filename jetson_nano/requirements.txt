@@ -93,8 +93,12 @@ mock==3.0.5
 more-itertools==7.2.0
 moviepy==1.0.0
 nanpy==0.9.6
+ dependabot/pip/jetson_nano/nbconvert-6.5.1
+nbconvert==6.5.1
+nbdime==1.1.0
 nbconvert==5.6.0
 nbdime==1.1.1
+ master
 nbformat==4.4.0
 nodejs==0.1.1
  dependabot/pip/jetson_nano/numpy-1.22.0
